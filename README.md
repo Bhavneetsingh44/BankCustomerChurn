@@ -14,6 +14,10 @@ to leave using Machine Learning.
 - 👴 Age 50-60 = highest risk group (56% churn)
 - 💰 High balance customers churning more!
 
+  ## Preprocessing 
+- Dropped AgeGroup (EDA only column)
+- One-Hot Encoded Geography & Gende
+
 ## Dataset
 10,000 European bank customers
 Target: Will customer leave? (Yes/No)
