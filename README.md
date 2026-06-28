@@ -6,6 +6,7 @@ to leave using Machine Learning.
 ## Progress
 ✅ Day 1 - Data Cleaning (9,988 customers)
 ✅ Day 2 - Exploratory Data Analysis
+✅ Day 3 - Preprocessing
 
 
 ## Key Findings So Far
