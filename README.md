@@ -25,4 +25,4 @@ to leave using Machine Learning.
 Target: Will customer leave? (Yes/No)
 
 ## Tech Stack
-Python | Pandas | Scikit-learn | Streamlit
+Python | Pandas | Numpy | Scikit-learn | Streamlit
