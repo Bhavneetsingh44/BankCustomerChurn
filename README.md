@@ -7,6 +7,7 @@ to leave using Machine Learning.
 ✅ Day 1 - Data Cleaning (9,988 customers)
 ✅ Day 2 - Exploratory Data Analysis
 ✅ Day 3 - Preprocessing
+✅ Day 4 - Feature Engineering
 
 
 ## Key Findings So Far
