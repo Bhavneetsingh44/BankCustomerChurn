@@ -8,6 +8,7 @@ to leave using Machine Learning.
 ✅ Day 2 - Exploratory Data Analysis
 ✅ Day 3 - Preprocessing
 ✅ Day 4 - Feature Engineering
+✅ Day 5 - Train-Test Split & Scaling
 
 
 ## Key Findings So Far
