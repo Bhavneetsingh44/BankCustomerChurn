@@ -9,6 +9,7 @@ to leave using Machine Learning.
 ✅ Day 3 - Preprocessing
 ✅ Day 4 - Feature Engineering
 ✅ Day 5 - Train-Test Split & Scaling
+✅ Day 6 - Model Building & Evaluation
 
 
 ## Key Findings So Far
